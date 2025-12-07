@@ -1,17 +1,52 @@
-Hi 👋, I'm SINDHU GANNEM
-A passionate frontend developer from India
-🔭 I’m currently working on HOSPITAL MANAGEMENT SYSTEM
+<h1 align="center">Hi 👋, I'm Sindhu Gannem</h1>
+<h3 align="center">A Passionate Frontend Developer from India 🇮🇳</h3>
 
-🌱 I’m currently learning C,Python,Java,HTML,SQL
+---
 
-👯 I’m looking to collaborate on BILLING SYSTEM
+### 👩‍💻 About Me  
+- 🔭 Currently working on **Hospital Management System**  
+- 🌱 Learning **C, Python, Java, HTML, SQL**  
+- 👯 Looking to collaborate on **Billing System Projects**  
+- 💬 Ask me about **C, Python, Java**  
+- 📫 Reach me at **gannemsindhu@gmail.com**  
+- ⚡ Fun fact: *I love learning new technologies & building real-world apps*  
 
-💬 Ask me about C,PYTHON,JAVA
+---
 
-📫 How to reach me gannemsindhu@gmail.com
+### 🚀 Tech Stack  
+<p>
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSS-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-green?style=for-the-badge"/>
+</p>
 
-⚡ Fun fact I'm alwayas eager to learn new technoologies and take on challenging projects!
+---
 
-Connect with me:
-Languages and Tools:
-c cplusplus csharp css3 d3js html5 java mysql python
+### 📌 Featured Projects  
+- ✅ **E-Commerce Web App (React + FastAPI + MongoDB)**  
+- ✅ **Hospital Management System**  
+- ✅ **Billing System**
+
+---
+
+### 📊 GitHub Stats  
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=sindhugannem&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+### 🌐 Connect With Me  
+<p>
+  <a href="mailto:gannemsindhu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/sindhugannem">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
