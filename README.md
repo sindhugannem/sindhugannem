@@ -13,8 +13,7 @@
 
 ## 👩‍💻 About Me  
 
-- 🔭 Currently working on **E-Commerce website**  
-- 🌱 Learning **C, Python, Java, HTML, SQL**  
+- 🔭 Currently working on **E-Commerce WebApp **    
 - 👯 Looking to collaborate on **Billing System & Web Projects**  
 - 💬 Ask me about **C, Python, Java, Frontend Development**  
 - 📫 Reach me at **gannemsindhu@gmail.com**  
@@ -51,15 +50,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sindhugannem&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sindhugannem&theme=tokyonight"/>
-</p>
-
----
-
 ## 🌐 Connect With Me  
 
 <p align="center">
@@ -77,14 +67,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sindhugannem/sindhugannem/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 👀 Profile Visitors  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sindhugannem&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
 ---
